@@ -13,6 +13,8 @@ To demonstrate the power of PCF, this repository contains a sample tree view com
 
 To speed up development of this component and to not reinvent the wheel, the component is built on top of an existing javascript library called d3-org-chart. The main challenge is to fit this library into the Power Apps framework and hook it up to the structure and data that is required by the framework. The section below will highlight some important aspect of this process and can help you in building your own components.
 
+![](https://github.com/BoelenJ/PCF-tree-view/blob/master/Sample/demo.gif)
+
 ## PCF development
 
 ### Prerequisites
